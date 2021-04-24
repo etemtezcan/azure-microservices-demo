@@ -1,4 +1,7 @@
+
+This project is a modification of 
 # Azure Hipster Shop: AKS Microservices Demo
+to be deployed onto digital ocean
 
 This project is an extension of the project "Hipster Shop: Cloud-Native Microservices Demo Application" from Google, available here: https://github.com/GoogleCloudPlatform/microservices-demo
 
